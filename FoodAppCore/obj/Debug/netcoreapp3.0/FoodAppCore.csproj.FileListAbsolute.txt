@@ -1,0 +1,16 @@
+C:\Users\Keerti\Documents\AspnetCore\FoodAppCore\bin\Debug\netcoreapp3.0\FoodAppCore.deps.json
+C:\Users\Keerti\Documents\AspnetCore\FoodAppCore\bin\Debug\netcoreapp3.0\FoodAppCore.dll
+C:\Users\Keerti\Documents\AspnetCore\FoodAppCore\bin\Debug\netcoreapp3.0\FoodAppCore.pdb
+C:\Users\Keerti\Documents\AspnetCore\FoodAppCore\obj\Debug\netcoreapp3.0\FoodAppCore.csprojAssemblyReference.cache
+C:\Users\Keerti\Documents\AspnetCore\FoodAppCore\obj\Debug\netcoreapp3.0\FoodAppCore.AssemblyInfoInputs.cache
+C:\Users\Keerti\Documents\AspnetCore\FoodAppCore\obj\Debug\netcoreapp3.0\FoodAppCore.AssemblyInfo.cs
+C:\Users\Keerti\Documents\AspnetCore\FoodAppCore\obj\Debug\netcoreapp3.0\FoodAppCore.dll
+C:\Users\Keerti\Documents\AspnetCore\FoodAppCore\obj\Debug\netcoreapp3.0\FoodAppCore.pdb
+C:\Users\Keerti\Documents\AspnetCore\AspnetCoreFoodApp\FoodAppCore\bin\Debug\netcoreapp3.0\FoodAppCore.deps.json
+C:\Users\Keerti\Documents\AspnetCore\AspnetCoreFoodApp\FoodAppCore\bin\Debug\netcoreapp3.0\FoodAppCore.dll
+C:\Users\Keerti\Documents\AspnetCore\AspnetCoreFoodApp\FoodAppCore\bin\Debug\netcoreapp3.0\FoodAppCore.pdb
+C:\Users\Keerti\Documents\AspnetCore\AspnetCoreFoodApp\FoodAppCore\obj\Debug\netcoreapp3.0\FoodAppCore.csprojAssemblyReference.cache
+C:\Users\Keerti\Documents\AspnetCore\AspnetCoreFoodApp\FoodAppCore\obj\Debug\netcoreapp3.0\FoodAppCore.AssemblyInfoInputs.cache
+C:\Users\Keerti\Documents\AspnetCore\AspnetCoreFoodApp\FoodAppCore\obj\Debug\netcoreapp3.0\FoodAppCore.AssemblyInfo.cs
+C:\Users\Keerti\Documents\AspnetCore\AspnetCoreFoodApp\FoodAppCore\obj\Debug\netcoreapp3.0\FoodAppCore.dll
+C:\Users\Keerti\Documents\AspnetCore\AspnetCoreFoodApp\FoodAppCore\obj\Debug\netcoreapp3.0\FoodAppCore.pdb
